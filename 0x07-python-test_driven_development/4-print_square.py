@@ -4,8 +4,6 @@
 
 '''
 File_name: 4-print_square.py
-Created: 3rd of June, 2023
-Auth: David James Taiye (Official0mega)
 Size: undefined
 Project: 0x07-python-test_driven_development
 Status: submitted.
